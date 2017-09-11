@@ -1,7 +1,7 @@
 Clone a repository, any repository, even this one.
 
 Check out a new branch
->git checkout -b new-branch
+>git checkout -b [new-branch]
 
 Make a small change, any change
 Check status
@@ -17,7 +17,7 @@ Commit change
 >git commit -m "[commit message here]"
 
 Push!
->git push origin new-branch
+>git push origin [new-branch]
 
 Additional resources:
 https://medium.com/@igor_marques/git-workflow-basics-d405746f6205
