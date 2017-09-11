@@ -1,10 +1,2 @@
-# 9-11
-
-### Today's Topic
-Git Workflow
-
-Intro to Sinatra
-
-
-### For Next Time
-Sinatra Basics Chapter in Flatiron
+I want to own a Porsche 911. 
+Maybe when I am a coder. 
